@@ -5,7 +5,6 @@ using UnityEngine;
 public class EnemyCtrl : MonoBehaviour
 {
     private bool isDead = false;
-
     private int health = 3;
     private int direction = 1;
     private float moveSpeed = 2f;
@@ -56,7 +55,7 @@ public class EnemyCtrl : MonoBehaviour
     {
         sprite.color = new Color(1f, 0.3f, 0.3f);
 
-        Instantiate(Resources.Load("Particles/Blood"), transform.position, Quaternion.identity);
+        //Instantiate(Resources.Load("Particles/Blood"), transform.position, Quaternion.identity);
 
         yield return new WaitForSeconds(0.5f);
 
@@ -80,9 +79,10 @@ public class EnemyCtrl : MonoBehaviour
                     //anim.SetBool("isDead", true);
                     isDead = true;
                     gameObject.tag = "Untagged";
-                    anim.SetTrigger("doDead");
+                    //anim.SetTrigger("doDead");
+                    anim.SetBool("Death", true);
 
-                    Destroy(gameObject, 0.5f);
+;                    Destroy(gameObject, 0.5f);
                 }
             }
         }

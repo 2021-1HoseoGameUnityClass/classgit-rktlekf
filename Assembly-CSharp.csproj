@@ -47,7 +47,6 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\cript\Player.cs" />
      <Compile Include="Assets\cript\Bullet.cs" />
      <Compile Include="Assets\cript\EnemyCtrl.cs" />
      <Compile Include="Assets\cript\PlayerCtrl.cs" />
@@ -345,49 +344,49 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
  </Reference>
  <Reference Include="YamlDotNet">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Assets/Ludiq/Assemblies/YamlDotNet.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Assets/Ludiq/Assemblies/YamlDotNet.dll</HintPath>
  </Reference>
  <Reference Include="Bolt.State.Editor">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Assets/Ludiq/Assemblies/Bolt.State.Editor.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Assets/Ludiq/Assemblies/Bolt.State.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Bolt.Core.Editor">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Assets/Ludiq/Assemblies/Bolt.Core.Editor.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Assets/Ludiq/Assemblies/Bolt.Core.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Ludiq.Graphs.Editor">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Assets/Ludiq/Assemblies/Ludiq.Graphs.Editor.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Assets/Ludiq/Assemblies/Ludiq.Graphs.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Bolt.Core.Runtime">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Assets/Ludiq/Assemblies/Bolt.Core.Runtime.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Assets/Ludiq/Assemblies/Bolt.Core.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Antlr3.Runtime">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Assets/Ludiq/Assemblies/Antlr3.Runtime.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Assets/Ludiq/Assemblies/Antlr3.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Ludiq.Graphs.Runtime">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Assets/Ludiq/Assemblies/Ludiq.Graphs.Runtime.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Assets/Ludiq/Assemblies/Ludiq.Graphs.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Ludiq.Platforms">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Assets/Ludiq/Assemblies/Ludiq.Platforms.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Assets/Ludiq/Assemblies/Ludiq.Platforms.dll</HintPath>
  </Reference>
  <Reference Include="Ionic.Zip">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Assets/Ludiq/Assemblies/Ionic.Zip.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Assets/Ludiq/Assemblies/Ionic.Zip.dll</HintPath>
  </Reference>
  <Reference Include="Bolt.Flow.Editor">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Assets/Ludiq/Assemblies/Bolt.Flow.Editor.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Assets/Ludiq/Assemblies/Bolt.Flow.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Ludiq.Core.Editor">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Assets/Ludiq/Assemblies/Ludiq.Core.Editor.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Assets/Ludiq/Assemblies/Ludiq.Core.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Bolt.Flow.Runtime">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="MiscUtil">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Assets/Ludiq/Assemblies/MiscUtil.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Assets/Ludiq/Assemblies/MiscUtil.dll</HintPath>
  </Reference>
  <Reference Include="Ludiq.Core.Runtime">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Bolt.State.Runtime">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Assets/Ludiq/Assemblies/Bolt.State.Runtime.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Assets/Ludiq/Assemblies/Bolt.State.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -735,91 +734,91 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Animation.Editor">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InternalAPIEngineBridge.001">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.PixelPerfect">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
  </Reference>
  <Reference Include="PsdPlugin">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.IK.Editor">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.IK.Editor.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.IK.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Sprite.Editor">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Psdimporter.Editor">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Path.Editor">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InternalAPIEditorBridge.001">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.IK.Runtime">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Animation.Triangle.Runtime">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Animation.Runtime">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.PixelPerfect.Editor">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics.Editor">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Common.Runtime">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.SpriteShape.Editor">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Common.Editor">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.SpriteShape.Runtime">
- <HintPath>C:/Users/rktle/OneDrive/문서/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
+ <HintPath>C:/git/classgit-rktlekf/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
